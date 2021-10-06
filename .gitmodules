@@ -1,0 +1,3 @@
+[submodule "data/AEC-Challenge"]
+    path = data/AEC-Challenge
+    url = https://github.com/microsoft/AEC-Challenge

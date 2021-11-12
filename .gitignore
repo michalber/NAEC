@@ -1,1 +1,4 @@
 .idea
+/notebooks/train_dataset.h5
+/notebooks/models/
+/notebooks/logs/

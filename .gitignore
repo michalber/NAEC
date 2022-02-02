@@ -2,3 +2,5 @@
 /notebooks/train_dataset.h5
 /notebooks/models/
 /notebooks/logs/
+/data/
+__pycache__
